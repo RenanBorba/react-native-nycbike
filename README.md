@@ -68,7 +68,7 @@ Aplicação Mobile desenvolvida em React Native com o Google Map usando o Expo.i
 </ul>
 <br><br><br>
 
-## :mega: Segue abaixo a principal estrutura e interface:
+## :mega: ⬇ Abaixo, a principal estrutura e interface:
 
 <br><br><br>
 
