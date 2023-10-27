@@ -12,7 +12,7 @@
 
 <br>
 
-![citi](https://user-images.githubusercontent.com/48495838/86008856-c57f5480-b9ef-11ea-80d1-5b06fdc59db9.jpeg)
+![logo-bike](https://github.com/RenanBorba/react-native-realm/assets/48495838/e902d64b-7ff9-436a-a606-ae4ccbc9bac0)
 
 </div>
 
