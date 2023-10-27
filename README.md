@@ -18,7 +18,7 @@
 
 <br>
 
-Aplicação Mobile desenvolvida em React Native com o Google Map usando o Expo.io, com a integração com os dados públicos do Citi Bike NYC (sistema de compartilhamento de bicicletas), tendo acesso aos ciclistas na região.
+Aplicação Mobile desenvolvida em React Native com o Google Map usando o Expo.io, com a integração com os dados públicos do Citi Bike NYC (sistema de compartilhamento de bicicletas), tendo acesso aos ciclistas da região.
 
 <br><br>
 
